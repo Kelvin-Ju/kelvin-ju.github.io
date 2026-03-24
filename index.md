@@ -17,7 +17,9 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 ## Employment History
 *   **Nov 2024 - Now:** Assistant Professor from the School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
 <br>
+<br>
 *   **Sep 2023 - Nov 2024:** Research Fellow, [ROSE Lab](https://www.ntu.edu.sg/rose/about-us/our-people), School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Alex Chichung Kot (SAEng, IEEE Fellow)](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex).
+<br>
 <br>
 *   **Sep 2022 - Sep 2023:** Postdoctoral Fellow, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong SAR, working with [Prof. Kenneth Kin-Man Lam (IEEE SPS Vice President)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-lam-kin-man-kenneth/).
 
