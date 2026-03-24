@@ -10,7 +10,8 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 
 
 ## Education
-*   **Sep 2016 - Jun 2022:** Ph.D., School of Computer Science and Technology, Ocean University of China, China, Supervised by [Prof. Junyu Dong (董军宇)](https://it.ouc.edu.cn/djy/).
+*   **Sep 2016 - Jun 2022:** Ph.D., School of Computer Science, Ocean University of China, China, Supervised by [Prof. Junyu Dong (董军宇)](https://it.ouc.edu.cn/djy/).
+<br>
 <br>
 *   **Sep 2012 - Jun 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
 
