@@ -9,12 +9,21 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 <br>
 <br>
 
-## Education:
+## Education
 *   **Sep 2016 - Jun 2022:** Ph.D., School of Computer Science and Technology, Ocean University of China, China, Supervised by [Prof. Junyu Dong (董军宇)](https://it.ouc.edu.cn/djy/).
 <br>
 *   **Sep 2012 - Jun 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
+<br>
 
-*   
+## Employment History
+*   **Nov 2024 - Now:** Assistant Professor from the School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
+<br>
+*   **Sep 2023 - Nov 2024:** Research Fellow, [ROSE Lab](https://www.ntu.edu.sg/rose/about-us/our-people), School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Alex Chichung Kot (SAEng, IEEE Fellow)](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex).
+<br>
+*   **Sep 2022 - Sep 2023:** Postdoctoral Fellow, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong SAR, working with [Prof. Kenneth Kin-Man Lam (IEEE SPS Vice President)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-lam-kin-man-kenneth/).
+<br>
+
+
 ## Opening:
 Dr. Le Zhang is looking for PhD students, Research Master students (project only) and visiting scholars with strong motivation to work on reliable machine learning and medical image analysis, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
 *   Foundation models for generalizable medical image analysis
