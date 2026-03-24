@@ -1,19 +1,18 @@
 ---
 layout: home2
-title: About
+title: Bio
 description: "Yakun Ju's academic homepage"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing and Mathematical Sciences, University of Leicester, United Kingdom. Prior to this, he served as a Research Fellow in the ROSE Lab at Nanyang Technological University, Singapore, and a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR. His research interests include 3D reconstruction, medical image processing, and underwater visual perception. He has authored over 70 peer-reviewed publications in leading journals and conferences such as TPAMI, TVCG, TIP, IJCV, and holds multiple patents, with technology transfer applications 480,000 CNY (approximately 70,000 USD).
 <br>
-<br>
+
 
 ## Education
 *   **Sep 2016 - Jun 2022:** Ph.D., School of Computer Science and Technology, Ocean University of China, China, Supervised by [Prof. Junyu Dong (董军宇)](https://it.ouc.edu.cn/djy/).
 <br>
 *   **Sep 2012 - Jun 2016:** B. Eng., School of Mechanical Engineering, Sichuan University, China.
-<br>
 
 ## Employment History
 *   **Nov 2024 - Now:** Assistant Professor from the School of Computing and Mathematical Sciences, University of Leicester, United Kingdom.
@@ -21,7 +20,7 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 *   **Sep 2023 - Nov 2024:** Research Fellow, [ROSE Lab](https://www.ntu.edu.sg/rose/about-us/our-people), School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, working with [Prof. Alex Chichung Kot (SAEng, IEEE Fellow)](https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex).
 <br>
 *   **Sep 2022 - Sep 2023:** Postdoctoral Fellow, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong SAR, working with [Prof. Kenneth Kin-Man Lam (IEEE SPS Vice President)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-lam-kin-man-kenneth/).
-<br>
+
 
 
 ## Opening:
