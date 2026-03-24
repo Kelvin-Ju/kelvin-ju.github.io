@@ -1,0 +1,72 @@
+title:            Le Zhang
+description:      Welcome to my site.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              //thisislezhang.github.io
+#http://localhost:5000
+#https://jponttuset.github.io
+disqus_shortname: lezhang
+
+# Owner/author information
+owner:
+  name:           Le Zhang
+  avatar:         Gemini_Generated_Image_hrsmi4hrsmi4hrsm.png
+  bio:            Assistant Professor in Machine Learning/AI for Digital Healthcare, School of Engineering, College of Engineering and Physical Sciences, University of Birmingham. 
+                  <br> <br> Honorary Research Fellow at William Harvey Research Institute, Barts Heart Center, Barts Health NHS Trust, Queen Mary University of London.
+  location:       "University of Birmingham"
+  email:          l.zhang.16@bham.ac.uk
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  
+  twitter: thisislezhang
+  linkedin: thisislezhang
+  google_scholar: N3gALRkAAAAJ
+  github: thisislezhang
+# Analytics and webmaster tools stuff goes here
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: //thisislezhang.github.io
+  - title: Research
+    url: /research/
+  - title: People
+    url: /people/
+  - title: Funding
+    url: /Funding/
+  - title: Publication
+    url: https://scholar.google.es/citations?hl=en&user=N3gALRkAAAAJ&view_op=list_works&sortby=pubdate
+    external: true
+  - title: Teaching
+    url: /teaching/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/London
+future:      true
+#pygments:    true
+highlighter: rouge
+markdown:    kramdown
+kramdown:
+  extensions: ["strikethrough"]
+  
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+syntax_highlighter_opts:
+  line_numbers:
+  line_numbers_start: 1
+  tab_width: 4
+  bold_every: 10
+  css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
