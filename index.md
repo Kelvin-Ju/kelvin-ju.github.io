@@ -31,7 +31,11 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 *   **Guest Editor:** [Journal of the Optical Society of America A (JOSA A)]([https://www.sciencedirect.com/journal/pattern-recognition](https://opg.optica.org/content/feature/announcement/item/josaa-ocmaa%22)), [Ocean Engineering (OE)](https://www.sciencedirect.com/special-issue/325118/multimodal-3d-perception-for-underwater-engineering-acoustics-optics-and-integrated-solutions), [Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition/about/call-for-papers), [Computer Vision and Image understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding/about/call-for-papers#advanced-computational-imaging-and-photography-measurement).
 <br>
 <br>
-*   **Conference Chair:** [Publication Chair- British Machine Vision Conference 2026 (BMVC 2026)](https://bmvc2026.bmva.org/).
+*   **Conference Chair:** [Publication Chair - BMVC 2026](https://bmvc2026.bmva.org/), [Program Chair - IDASS2026](https://idass.org.cn/index.html).
+<br>
+<br>
+*   **Workshop Organizer:** [IEEE ICME 2026 Workshop: P3DMM](https://p3dmm2026.github.io/), [IEEE ICME 2025 Workshop: MUIPE](https://muipe2025.github.io/).
+
 
 
 ## Collaboration:  
