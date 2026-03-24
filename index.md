@@ -24,14 +24,15 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 <br>
 *   **Sep 2022 - Sep 2023:** Postdoctoral Fellow, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong SAR, working with [Prof. Kenneth Kin-Man Lam (IEEE SPS Vice President)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-lam-kin-man-kenneth/).
 
+## Academic Service
+*   **Associate Editor/Editorial Board:** [Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition), [Machine Intelligence Research (MIR)](https://link.springer.com/journal/11633), [CAAI Transactions on Intelligence Technology (CAAI TRIT)](https://digital-library.theiet.org/journal/trit), [Applied Soft Computing (ASOC)](https://www.sciencedirect.com/journal/applied-soft-computing), [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Intelligent Marine Technology and Systems (IMTS)](https://link.springer.com/journal/44295/editors).
+<br>
+<br>
+*   **Guest Editor:** [Journal of the Optical Society of America A (JOSA A)]([https://www.sciencedirect.com/journal/pattern-recognition](https://opg.optica.org/content/feature/announcement/item/josaa-ocmaa%22)), [Ocean Engineering (OE)](https://www.sciencedirect.com/special-issue/325118/multimodal-3d-perception-for-underwater-engineering-acoustics-optics-and-integrated-solutions), [Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition/about/call-for-papers), [Computer Vision and Image understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding/about/call-for-papers#advanced-computational-imaging-and-photography-measurement).
+<br>
+<br>
+*   **Conference Chair:** [Proceedings Chair- British Machine Vision Conference 2026 (BMVC 2026)](https://bmvc2026.bmva.org/).
 
-
-## Opening:
-Dr. Le Zhang is looking for PhD students, Research Master students (project only) and visiting scholars with strong motivation to work on reliable machine learning and medical image analysis, especially PhD students with CSC’s support potentially. Please feel free to drop an email (l.zhang.16@bham.ac.uk) if you are interested!
-*   Foundation models for generalizable medical image analysis
-*   Generative AI for Medical Imaging
-*   Multimodal learning for population health studies
-*   Computational imaging methods for population image
 
 ## Collaboration:  
 Dr. Zhang has extensive collaborations with universities and industries both domestically and internationally, including University of Oxford, Novo Nordisk, University College London, Johns Hopkins University, Queen Mary University of London, University of Sheffield, Chinese Academy of Sciences University, Alibaba, Tencent, and others.
