@@ -5,6 +5,22 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+<style>
+.mobile-author {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .article-author-side {
+    display: none;
+  }
+
+  .mobile-author {
+    display: block;
+    margin-bottom: 16px;
+  }
+}
+</style>
 </head>
 
 <body class="page">
@@ -34,6 +50,11 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+
+  <div class="mobile-author">
+    {% include _author-bio.html %}
+  </div>
+
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
@@ -53,7 +74,7 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}          
+{% include _scripts.html %}
 
 </body>
 </html>
