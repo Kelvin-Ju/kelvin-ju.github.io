@@ -36,22 +36,54 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 <br>
 *   **Workshop Organizer:** [IEEE ICME 2026 Workshop: P3DMM](https://p3dmm2026.github.io/), [IEEE ICME 2025 Workshop: MUIPE](https://muipe2025.github.io/).
 
+
+
+## Selected Publication:
+**Revisiting One-stage Deep Uncalibrated Photometric Stereo via Fourier Embedding**  
+  **Yakun Ju**, Boxin Shi, Bihan Wen, Kin-Man Lam, Xudong Jiang, Alex C. Kot.  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2025. [[Paper]](https://ieeexplore.ieee.org/document/10947620)
+<br>
+<br>
+ **Deep Learning Methods for Calibrated Photometric Stereo and Beyond**  
+  **Yakun Ju**, Kin-Man Lam, Wuyuan Xie, Huiyu Zhou, Junyu Dong, Boxin Shi.  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10497891)
+<br>
+<br>
+**Normattention-PSN: A High-Frequency Region Enhanced Photometric Stereo Network with Normalized Attention**  
+  **Yakun Ju**, Boxin Shi, Muwei Jian, Lin Qi, Junyu Dong, Kin-Man Lam.  
+  *International Journal of Computer Vision (IJCV)*, 2022. [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01684-8)
+<br>
+<br>  
+**Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  
+  **Yakun Ju**, Junyu Dong, Sheng Chen.  
+  *IEEE Transactions on Image Processing (TIP)*, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9376632)
+<br>
+<br>  
+**GR-PSN: Learning to Estimate Surface Normal and Reconstruct Photometric Stereo Images**  
+  **Yakun Ju**, Boxin Shi, Yang Chen, Huiyu Zhou, Junyu Dong, Kin-Man Lam.  
+  *IEEE Transactions on Visualization and Computer Graphics (TVCG)*, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10306333)
+
 ## Granted Patents  
 *   A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning, CN107862741, **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu, **Technology Transfer Applications 480,000 CNY (approximately 70,000 USD)**
 <br>
+<br>
 *   High-frequency Region Enhancement Photometric Stereo Method Based on Deep Learning, CN113936117, **Yakun Ju**, Junyu Dong, Feng Gao
+<br>
 <br>
 *   Multispectral photometric stereo surface normal recovery method based on deep learning, CN110060212, **Yakun Ju**, Junyu Dong, Lin Qi
 <br>
+<br>
 *   A Transformer-based face image super-resolution method, CN113191953, Muwei Jian, Rui Wang, Xing Wang, **Yakun Ju**, etc.
+<br>
 <br>
 *   A method for grading diabetic retinopathy based on a three-stage attention network, CN115587979, Muwei Jian, Hongyu Chen, Rui Wang, **Yakun Ju**, etc.
 
-## Selected Publication:
-*   Le Zhang, Ryutaro Tanno, Moucheng Xu, Yawen Huang, Kevin Bronik, Chen Jin, Joseph Jacob, Yefeng Zheng, Ling Shao, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander, Learning to Segment from Multiple Annotators, Pattern Recognition, February, 2023.
-*   Yan Xia, Le Zhang, Nishant Ravikumar, Rahman Attar, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Recovering from Missing Data in Population Imaging – Cardiac MR Image Imputation via Conditional Generative Adversarial Nets, Medical Image Analysis, 67 (2021): 101812.
-*   Le Zhang, Ryutaro Tanno, Moucheng Xu, Jin Chen, Joseph Jacob, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander, Disentangling Human Error from the Ground Truth in Segmentation of Medical Images, Advances in Neural Information Processing Systems (NeurIPS), 2020.
-*   Le Zhang, Macro Pereanez, Christopher Bowles, Stefan Piechnik, Stefan Neubauer, Steffen Petersen and Alejandro F. Frangi, Missing Slice Imputation in Population CMR Imaging via Conditional Generative Adversarial Nets, International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2019. (Nominated for the Young Scientist Award)
+## Awards
+*   ACM China Council Qingdao Chapter Outstanding Doctoral Dissertation Award, 2022
+*   Inspur Scholarship, 2021
+*   National Scholarship for Doctoral Students, 2020
+*   Goers Acoustic Scholarship, 2017
 
-
+## Map My Visitors
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=200&t=n&d=DUZ5ltq0MZsKYFClVz-_l6DGjjcuIilnJvRuR-Ubh9w&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
 
