@@ -38,7 +38,7 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 
 
 
-## Selected Publication:
+## Selected Publication
 **Revisiting One-stage Deep Uncalibrated Photometric Stereo via Fourier Embedding**  
   **Yakun Ju**, Boxin Shi, Bihan Wen, Kin-Man Lam, Xudong Jiang, Alex C. Kot.  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2025. [[Paper]](https://ieeexplore.ieee.org/document/10947620)
@@ -63,7 +63,7 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
   **Yakun Ju**, Boxin Shi, Yang Chen, Huiyu Zhou, Junyu Dong, Kin-Man Lam.  
   *IEEE Transactions on Visualization and Computer Graphics (TVCG)*, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10306333)
 
-## Granted Patents  
+##  Patents  
 *   A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning, CN107862741, **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu, **Technology Transfer Applications 480,000 CNY (approximately 70,000 USD)**
 <br>
 <br>
