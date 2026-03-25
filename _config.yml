@@ -33,13 +33,13 @@ links:
     url: //kelvin-Ju.github.io
   - title: Research
     url: /research/
-  - title: People
+  - title: Supervision
     url: /people/
   #- title: Funding
     #url: /Funding/
-  - title: Full Publication
-    url: https://scholar.google.co.uk/citations?user=hE10pMYAAAAJ&hl=en&oi=aoJ
-    external: true
+  #- title: Full Publication
+    #url: https://scholar.google.co.uk/citations?user=hE10pMYAAAAJ&hl=en&oi=aoJ
+    #external: true
   - title: Teaching
     url: /teaching/
 
