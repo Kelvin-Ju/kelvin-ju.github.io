@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: Supervision
+title:
 tags: [people]
 modified: 25-03-26
 comments: false
