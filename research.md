@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Projects I am working on
+title: 
 tags: [research]
 modified: 25-03-26
 comments: false
