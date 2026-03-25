@@ -36,10 +36,16 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 <br>
 *   **Workshop Organizer:** [IEEE ICME 2026 Workshop: P3DMM](https://p3dmm2026.github.io/), [IEEE ICME 2025 Workshop: MUIPE](https://muipe2025.github.io/).
 
-
-
-## Collaboration:  
-Dr. Zhang has extensive collaborations with universities and industries both domestically and internationally, including University of Oxford, Novo Nordisk, University College London, Johns Hopkins University, Queen Mary University of London, University of Sheffield, Chinese Academy of Sciences University, Alibaba, Tencent, and others.
+## Granted Patents  
+*   A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning, CN107862741, **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu, **Technology Transfer Applications 480,000 CNY (approximately 70,000 USD)**
+<br>
+*   High-frequency Region Enhancement Photometric Stereo Method Based on Deep Learning, CN113936117, **Yakun Ju**, Junyu Dong, Feng Gao
+<br>
+*   Multispectral photometric stereo surface normal recovery method based on deep learning, CN110060212, **Yakun Ju**, Junyu Dong, Lin Qi
+<br>
+*   A Transformer-based face image super-resolution method, CN113191953, Muwei Jian, Rui Wang, Xing Wang, **Yakun Ju**, etc.
+<br>
+*   A method for grading diabetic retinopathy based on a three-stage attention network, CN115587979, Muwei Jian, Hongyu Chen, Rui Wang, **Yakun Ju**, etc.
 
 ## Selected Publication:
 *   Le Zhang, Ryutaro Tanno, Moucheng Xu, Yawen Huang, Kevin Bronik, Chen Jin, Joseph Jacob, Yefeng Zheng, Ling Shao, Olga Ciccarelli, Frederik Barkhof, Daniel C. Alexander, Learning to Segment from Multiple Annotators, Pattern Recognition, February, 2023.
