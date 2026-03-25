@@ -3,42 +3,25 @@ layout: page
 permalink: /research/
 title: Projects I am working on
 tags: [research]
-modified: 3-10-2024
+modified:
 comments: false
 ---
 
-<img align="middle" width="800" src="{{ site.url }}/images/mic+.png" alt="...">
-<br />
-<br />
+My research interests broadly lie in **computer vision**, with a particular focus on the following topics:
 
-### Generative AI for Medical Imaging
-
-Generative AI for medical imaging involves the use of artificial intelligence techniques, particularly generative models, to assist in various tasks within the field of medical imaging. These models can generate realistic images from scratch or modify existing images to improve their quality or highlight specific features. Key techniques include Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and more recently, Transformers and Stable Diffusion. These techniques hold promise in enhancing medical imaging workflows by generating synthetic data for training deep learning models, improving image quality, aiding in disease diagnosis, and even facilitating personalized treatment plans. However, challenges such as the need for large and diverse datasets, ensuring the clinical relevance and safety of generated images, and interpretability of AI-generated results remain areas of active research and development. Despite these challenges, generative AI continues to show significant potential in revolutionizing medical imaging by providing tools to assist clinicians in more accurate and efficient diagnoses and treatments.
-<br />
-<br />
-<img align="middle" width="800" src="{{ site.url }}/images/GenAI.gif" alt="...">
-<br />
-<br />
- 
-### Learning to Segment from Limited Labeled Data
-
-Recent years have seen increasing use of supervised learning methods for segmentation tasks. However, the predictive performance of these algorithms depends on the quality of labels. This problem is particularly pertinent in the medical image domain, where both the annotation cost and inter-observer variability are high. In a typical label acquisition process, different human experts provide their estimates of the ``true'' segmentation labels under the influence of their own biases and competence levels. Treating these noisy labels blindly as the ground truth limits the performance that automatic segmentation algorithms can achieve. In this project, we present a method for jointly learning, from purely noisy observations alone, the reliability of individual annotators and the true segmentation label distributions, using two coupled CNNs. The separation of the two is achieved by encouraging the estimated annotators to be maximally unreliable while achieving high fidelity with the noisy training data.
-<br />
-<br />
-<img align="middle" width="800" src="{{ site.url }}/images/NIPS.png" alt="...">
-<br />
-<br />
-
-
-### Medical Image Quality Control
-
-Accurate ventricular volume measurements depend on complete heart coverage in cardiac magnetic resonance (CMR) from where most immediate indicators of normal/abnormal cardiac function are available non-invasively. However, incomplete coverage, especially missing basal or apical slices in CMR sequences is insufficiently addressed in population imaging and current clinical research studies yet has important impact on volume calculation accuracy. In this project, we adapt the generative machine learning model to generate missing CMR slices, following manual, semi- or fully-automatic quality control (QC). We present a novel, robust method for image imputation based on a generative adversarial network to infer missing slices, conditioned on information in adjacent image slices.
-<br />
-<br />
-<img align="middle" width="800" src="{{ site.url }}/images/IQA.jpg" alt="...">
-<br />
-<br />
-
+- **3D Reconstruction:** Photometric Stereo, Structure from Motion, Binocular Stereo, Monocular Depth Estimation, Mesh Reconstruction, and 3D Gaussian Splatting
+<br>
+<br>
+- **Medical Image Processing:** Retina Reconstruction, Spine Segmentation, and Brain Segmentation
+<br>
+<br>
+- **Underwater Information Perception:** Underwater Object Reconstruction, Sonar Reconstruction, Underwater Image Restoration, Sonar-Camera Fusion, and Marine Remote Sensing
+<br>
+<br> 
+- **Computational Imaging:** CT, THz, and Hyperspectral Image Reconstruction, Image Super-resolution, Low-light Enhancement, Image Deraining, Denoising, Warping, Re-lighting, and Image Rendering  
+<br>
+<br> 
+- **Deep Learning:** Convolutional Neural Networks, Transformers, and Self-supervised Learning
 
 
 
