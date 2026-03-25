@@ -15,7 +15,7 @@ comments: false
 <br>
 * **Bo Wang** (University of Leicester & AstraZeneca UK, Mar 2026 - ):  "Unravelling Organoid Heterogeneity and Drug Response with a Novel Foundation Model" (with Huiyu Zhou & Hui Sun Leong)
 
-## MSc by Research Students
+## MPhil Supervision
 
 ## Postdoctoral Researcher
 
