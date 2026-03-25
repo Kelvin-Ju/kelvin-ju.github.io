@@ -81,7 +81,7 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 <br>
 **Towards Marine Snow Removal with Fusing Fourier Information**  
   **Yakun Ju**, Jun Xiao, Cong Zhang, Hao Xie, Anwei Luo, Huiyu Zhou, Alex C. Kot.  
-  *Information Fusion*, 2024. [[Paper]](https://link.springer.com/article/10.1007/s41095-021-0223-y)
+  *Information Fusion*, 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253524005888)
 <br>
 <br>
 **FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-from-gradients**  
