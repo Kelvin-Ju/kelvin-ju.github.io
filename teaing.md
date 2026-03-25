@@ -7,9 +7,13 @@ modified: 3-10-2024
 comments: false
 ---
 
-* LC Computing for Engineers (25/26)
-* LM Software and Systems (25/26)
-* LC Computing for Engineers (24/25)
-* LM Software and Systems (24/25)
+* CO7099: Foundations of Cybersecurity, University of Leicester, 2025 - 2026 SEM2
+<br>
+<br>
+* CO4210/7210: Personal and Group Skills, University of Leicester, 2024-2025 SEM2, 2025 - 2026 SEM1
+<br>
+<br>
+* CO2302: Software Engineering Group Project, University of Leicester, 2024-2025 SEM2
+
 
 
