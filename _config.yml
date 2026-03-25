@@ -35,11 +35,11 @@ links:
     url: /research/
   - title: People
     url: /people/
-  - title: Funding
-    url: /Funding/
-  #- title: Publication
-   # url: https://scholar.google.co.uk/citations?user=hE10pMYAAAAJ&hl=en&oi=aoJ
-    #external: true
+  #- title: Funding
+    #url: /Funding/
+  - title: Full Publication
+    url: https://scholar.google.co.uk/citations?user=hE10pMYAAAAJ&hl=en&oi=aoJ
+    external: true
   - title: Teaching
     url: /teaching/
 
