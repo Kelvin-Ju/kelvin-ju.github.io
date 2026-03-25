@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: Supervision
 tags: [people]
-modified: 
+modified: 25-03-26
 comments: false
 ---
 
