@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: Team Members
 tags: [people]
-modified: 3-10-2024
+modified: 
 comments: false
 ---
 
