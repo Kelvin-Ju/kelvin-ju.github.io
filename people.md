@@ -1,37 +1,26 @@
 ---
 layout: page
 permalink: /people/
-title: Team Members
+title: Supervision
 tags: [people]
 modified: 
 comments: false
 ---
 
 
-Our team members and collabrators from University of Birmingham, John Hopkins University, Queen Mary University of London, Imperial College London, Shanghai Tech University et al.
+## PhD Supervision
 
-### Principle Investigator
+* **Ziang Hao** (University of Leicester, Sep 2025 - ):  "Vision-Language Model for Brain Tumor Diagnosis" (with Huiyu Zhou)
+<br>
+<br>
+* **Bo Wang** (University of Leicester & AstraZeneca UK, Mar 2026 - ):  "Unravelling Organoid Heterogeneity and Drug Response with a Novel Foundation Model" (with Huiyu Zhou & Hui Sun Leong)
 
-* **Dr. Le Zhang**
- 
-### PhD Students
+## MSc by Research Students
 
-* **Kedi Sun** (Sep 2025 -- )
-* **Junjie Li** (Sep 2025 -- )
-* **Haofan Wu** (Sep 2025 -- )
-* **Nadia Lashram** (Dec 2024 -- )
-* **Chaohui Dang** (Dec 2024 -- )
-* **Pengyao Qin** (Nov 2024 -- )
-* **Junkai Liu** (Sep 2024 -- )
-* **Anghong Du** (Sep 2024 -- )
 
-### MSc by Research Students
+## Visiting Scholars
 
-* **Zhi Chen** (Sep 2025 -- )
 
-### Visiting Scholars
-
-* **Min Dong** (Oct 2025 --)
 
 
 ### Research Interns & Collaborators
