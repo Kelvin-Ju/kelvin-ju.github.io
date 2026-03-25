@@ -7,8 +7,7 @@ modified: 25-03-26
 comments: false
 ---
 
-<br>
-<br>
+
 ### PhD Supervision
 
 * **Ziang Hao** (University of Leicester, Sep 2025 - ):  "Vision-Language Model for Brain Tumor Diagnosis" (with Huiyu Zhou)
