@@ -62,6 +62,32 @@ Yakun Ju is currently an Assistant Professor (PhD Supervisor) with the Computing
 **GR-PSN: Learning to Estimate Surface Normal and Reconstruct Photometric Stereo Images**  
   **Yakun Ju**, Boxin Shi, Yang Chen, Huiyu Zhou, Junyu Dong, Kin-Man Lam.  
   *IEEE Transactions on Visualization and Computer Graphics (TVCG)*, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10306333)
+<br>
+<br>
+**Photometric Regularization for 3D Gaussian Splatting in Multi-view Surface Projection**  
+  **Yakun Ju**, Yuying Zhao, Jun Xiao, Cong Zhang, Zheheng Jiang, Huiyu Zhou, Wei Zhou, Hui Yu, Junyu Dong.  
+  *IEEE Journal of Selected Topics in Signal Processing (JSTSP)*, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11192617)
+<br>
+<br>
+**Estimating High-resolution Surface Normals via Low-resolution Photometric Stereo Images**  
+  **Yakun Ju**, Muwei Jian, Cong Wang, Cong Zhang, Junyu Dong, Kin-Man Lam.  
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2023. *(ESI Highly Cited Paper)* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10208243)
+<br>
+<br>
+**Underwater Surface Normal Reconstruction via Cross-grained Photometric Stereo Transformer**  
+  **Yakun Ju**, Ling Li, Xian Zhong, Yuan Rao, Yanru Liu, Junyu Dong, Alex C. Kot.  
+  *IEEE Journal of Oceanic Engineering (JOE)*, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10721286)
+<br>
+<br>
+**Towards Marine Snow Removal with Fusing Fourier Information**  
+  **Yakun Ju**, Jun Xiao, Cong Zhang, Hao Xie, Anwei Luo, Huiyu Zhou, Alex C. Kot.  
+  *Information Fusion*, 2024. [[Paper]](https://link.springer.com/article/10.1007/s41095-021-0223-y)
+<br>
+<br>
+**FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-from-gradients**  
+  Jiaqi Leng, **Yakun Ju***, Yuanxu Duan, Jiangnan Zhang, Qingxuan Lv, Zuxuan Wu, Hao Fan.  
+  *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2025. [[Paper]](https://aaai.org/conference/aaai/aaai-25/)
+  
 
 ##  Patents  
 *   A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning, CN107862741, **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu, **Technology Transfer Applications 480,000 CNY (approximately 70,000 USD)**
